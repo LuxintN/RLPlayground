@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RLPlayground", "RLPlayground\RLPlayground.csproj", "{192D340B-E1FF-47F4-A627-97EC038E62CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RLPlaygroundTests", "RLPlaygroundTests\RLPlaygroundTests.csproj", "{B72A670B-AA2C-40E0-A7FA-A80B88DA1552}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{192D340B-E1FF-47F4-A627-97EC038E62CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{192D340B-E1FF-47F4-A627-97EC038E62CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{192D340B-E1FF-47F4-A627-97EC038E62CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B72A670B-AA2C-40E0-A7FA-A80B88DA1552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B72A670B-AA2C-40E0-A7FA-A80B88DA1552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B72A670B-AA2C-40E0-A7FA-A80B88DA1552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B72A670B-AA2C-40E0-A7FA-A80B88DA1552}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
